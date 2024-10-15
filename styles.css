@@ -21,20 +21,20 @@ nav ul li {
 }
 
 nav a {
-   color: white;
+   color: rgb(31, 14, 14);
    text-decoration: none;
 }
 
 main {
-   padding: 20px;
+   padding: 25px;
 }
 
 section {
-   margin: 20px 0;
+   margin: 25px 0;
 }
 
 h2 {
-   color: #333;
+   color: #961616;
 }
 
 form {
@@ -49,13 +49,13 @@ label {
 input, textarea {
    padding: 10px;
    margin-bottom: 10px;
-   border: 1px solid #ccc;
+   border: 1px solid #531d1d;
 }
 
 button {
    padding: 10px;
-   background: #28a745;
-   color: white;
+   background: #b83f0f;
+   color: rgb(117, 138, 117);
    border: none;
    cursor: pointer;
 }
